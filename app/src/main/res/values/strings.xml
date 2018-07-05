@@ -1,0 +1,13 @@
+<resources>
+    <!-- Titre application -->
+    <string name="app_name">Movies</string>
+    <!-- Titre activités -->
+    <string name="title_activity_view_films">ViewFilms</string>
+    <string name="title_activity_detail">DetailFilms</string>
+    <!-- Textes pour les composants -->
+    <string name="title">MOVIES</string>
+    <string name="search">RECHERCHER</string>
+    <string name="titleSearch">Titre à rechercher</string>
+    <string name="radioButtonFilms">Films</string>
+    <string name="radionButtionSeries">Séries</string>
+</resources>
